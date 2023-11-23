@@ -1,0 +1,5 @@
+- utilisation API pour articles 
+- création BDD pour les id password des clients
+- création formulaire de connexion
+- liste déroulante affichage cours
+- pages d'apprentissages

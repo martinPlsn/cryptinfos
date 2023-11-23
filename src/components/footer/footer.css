@@ -1,0 +1,26 @@
+/* Réinitialisation des styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  
+  /* Styles pour le pied de page */
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #008652;
+    color: #fff;
+  }
+  
+  /* Styles pour les liens */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    padding-top: 5px;
+  }
+  

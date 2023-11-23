@@ -1,0 +1,30 @@
+
+.input-field[type="text"],
+.input-field[type="email"] {
+  width: 25%; 
+  margin-bottom: 5px;
+}
+
+
+
+.pt-0-mb-3 {
+  color: rgb(226, 19, 19);
+  text-align: center;
+}
+
+
+button {
+  font-family: inherit;
+  font-size: 10px;
+  text-align: center;
+  background: royalblue;
+  color: white;
+  padding: 0.7em 1em;
+  display: inline;
+  align-items: center;
+  border: none;
+  border-radius: 16px;
+  overflow: hidden;
+  transition: all 0.2s;
+  cursor: pointer;
+}
